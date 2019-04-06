@@ -1,0 +1,2672 @@
+[
+  {
+    "id": "23f2c8e1-bd5d-4f27-9398-a688c998808a",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "697685458679",
+    "metadata": {
+      "createdDate": "2019-02-20T14:04:55.109+01:00",
+      "updatedDate": "2019-02-20T14:04:55.109+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "68872d8a-bf16-420b-829f-206da38f6c10",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2e48e713-17f3-4c13-a9f8-23845bb210a4"
+  },
+  {
+    "id": "4428a37c-8bae-4f0d-865d-970d83d5ad55",
+    "notes": [
+      {
+        "note": "Missing pages; p 10-13",
+        "staffOnly": false
+      }
+    ],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "4539876054382",
+    "metadata": {
+      "createdDate": "2019-02-20T14:04:55.332+01:00",
+      "updatedDate": "2019-02-20T14:04:55.332+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [
+      "Copy 2"
+    ],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "numberOfPieces": "1",
+    "electronicAccess": [],
+    "holdingsRecordId": "65cb2bf0-d4c2-4886-8ad0-b76f1ba75d61",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27",
+    "temporaryLoanTypeId": "e8b311a6-3b21-43f2-a269-dd9310cb2d0e"
+  },
+  {
+    "id": "23fdb0bc-ab58-442a-b326-577a96204487",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "653285216743",
+    "metadata": {
+      "createdDate": "2019-02-20T14:04:55.367+01:00",
+      "updatedDate": "2019-02-20T14:04:55.367+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "e6d7e91a-4dbc-4a70-9b38-e000d2fbdc79",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "0b96a642-5e7f-452d-9cae-9cee66c9a892",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "645398607547",
+    "metadata": {
+      "createdDate": "2019-02-20T14:04:55.406+01:00",
+      "updatedDate": "2019-02-20T14:04:55.406+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "e6d7e91a-4dbc-4a70-9b38-e000d2fbdc79",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "459afaba-5b39-468d-9072-eb1685e0ddf4",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "765475420716",
+    "metadata": {
+      "createdDate": "2019-02-20T14:04:55.457+01:00",
+      "updatedDate": "2019-02-20T14:04:55.457+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "5ee11d91-f7e8-481d-b079-65d708582ccc",
+    "electronicAccess": [],
+    "holdingsRecordId": "65032151-39a5-4cef-8810-5350eb316300",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27",
+    "temporaryLocationId": "53cf956f-c1df-410b-8bea-27f712cca7c0"
+  },
+  {
+    "id": "d6f7c1ba-a237-465e-94ed-f37e91bc64bd",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "4539876054383",
+    "metadata": {
+      "createdDate": "2019-02-20T14:04:55.5+01:00",
+      "updatedDate": "2019-02-20T14:04:55.5+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [
+      "Copy 3"
+    ],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "numberOfPieces": "1",
+    "electronicAccess": [],
+    "holdingsRecordId": "fb7b70f1-b898-4924-a991-0e4b6312bb5f",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27",
+    "temporaryLoanTypeId": "e8b311a6-3b21-43f2-a269-dd9310cb2d0e"
+  },
+  {
+    "id": "e9f9bc2f-bad5-4613-9d6c-f55efa5805e7",
+    "notes": [
+      {
+        "note": "Print began in 1915. Available in print: Vol. 1 (Jan. 1915)-v. 69, no. 12 (Dec. 1983).",
+        "staffOnly": false
+      }
+    ],
+    "status": {
+      "name": "Available online"
+    },
+    "metadata": {
+      "createdDate": "2019-02-20T14:04:55.539+01:00",
+      "updatedDate": "2019-02-20T14:04:55.539+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "615b8413-82d5-4203-aa6e-e37984cb5ac3",
+    "electronicAccess": [],
+    "holdingsRecordId": "684b5dc5-92f6-4db7-b996-b549d88f5e4e",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "a1dc1ce3-d56f-4d8a-b498-d5d674ccc845"
+  },
+  {
+    "id": "bb5a6689-c008-4c96-8f8f-b666850ee12d",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "326547658598",
+    "metadata": {
+      "createdDate": "2019-02-20T14:04:55.576+01:00",
+      "updatedDate": "2019-02-20T14:04:55.576+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "67cd0046-e4f1-4e4f-9024-adf0b0039d09",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "1b6d3338-186e-4e35-9e75-1b886b0da53e",
+    "notes": [
+      {
+        "note": "Signed by the author",
+        "staffOnly": false
+      }
+    ],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "453987605438",
+    "metadata": {
+      "createdDate": "2019-02-20T14:04:55.616+01:00",
+      "updatedDate": "2019-02-20T14:04:55.616+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [
+      "Copy 1"
+    ],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "numberOfPieces": "1",
+    "electronicAccess": [],
+    "holdingsRecordId": "65cb2bf0-d4c2-4886-8ad0-b76f1ba75d61",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27",
+    "temporaryLoanTypeId": "e8b311a6-3b21-43f2-a269-dd9310cb2d0e"
+  },
+  {
+    "id": "1714f71f-b845-444b-a79e-a577487a6f7d",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "000111222333444",
+    "metadata": {
+      "createdDate": "2019-02-20T14:04:55.658+01:00",
+      "updatedDate": "2019-02-20T14:04:55.658+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [
+      "c.1"
+    ],
+    "enumeration": "v. 30 1961",
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "133a7916-f05e-4df4-8f7f-09eb2a7076d1",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2e48e713-17f3-4c13-a9f8-23845bb210a4",
+    "temporaryLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "a03163e3-0797-4d03-beff-400c774d3f86",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "69228882",
+    "metadata": {
+      "createdDate": "2019-02-20T14:07:37.545+01:00",
+      "updatedDate": "2019-02-20T14:07:37.545+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "3fc68e4d-8896-4933-9b0c-a848b49b83bf",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "e653ea93-e49a-44e6-9d6c-087ed1e603a6",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "22169083",
+    "metadata": {
+      "createdDate": "2019-02-20T14:07:37.545+01:00",
+      "updatedDate": "2019-02-20T14:07:37.545+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "03c79e7b-0981-44a0-9dad-08fa95aa58b9",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "731c2962-4b91-4ac9-90cb-9ef7b6e9c1f7",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "53556908",
+    "metadata": {
+      "createdDate": "2019-02-20T14:07:37.543+01:00",
+      "updatedDate": "2019-02-20T14:07:37.543+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "1ee14abe-6da1-4792-b195-a9678876ccc9",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "a7d830d6-6dc3-427a-aa6d-9e88a024a4b3",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "37696876",
+    "metadata": {
+      "createdDate": "2019-02-20T14:07:37.547+01:00",
+      "updatedDate": "2019-02-20T14:07:37.547+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "24250380-423e-49d3-911b-4a7b77064dc7",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "4f1ca7d1-2f8e-4719-95cc-89e09bd67ca4",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "43620390",
+    "metadata": {
+      "createdDate": "2019-02-20T14:07:37.546+01:00",
+      "updatedDate": "2019-02-20T14:07:37.546+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "9dd7e438-8b7a-4a16-82a5-a2f7f8a11926",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "09e900cf-1ca5-4092-b31e-26dea8c7fc0f",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "69250051",
+    "metadata": {
+      "createdDate": "2019-02-20T14:07:37.551+01:00",
+      "updatedDate": "2019-02-20T14:07:37.551+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "71eb6d1f-6abe-4f82-b38c-78c88da9db93",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "87506371-f0f8-4773-993b-0eef1096387e",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "69077747",
+    "metadata": {
+      "createdDate": "2019-02-20T14:07:37.552+01:00",
+      "updatedDate": "2019-02-20T14:07:37.552+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "526295f2-a3b7-4227-9b2f-155f2a10955e",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "b1e7d738-fe72-4b81-9439-2318d77ad80f",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "69247446",
+    "metadata": {
+      "createdDate": "2019-02-20T14:07:37.552+01:00",
+      "updatedDate": "2019-02-20T14:07:37.552+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "a9801330-5406-4b3c-af84-89f0420c6c10",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "efd6eae8-fd5f-4512-aac8-c907838cbb36",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "5694937927506",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:13.403+01:00",
+      "updatedDate": "2019-02-20T14:08:13.403+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "a8ed64cc-3829-4603-9e04-860d6050c958",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "e80f66e5-a742-4ab0-b325-f0dcb28ddf65",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "4821747599552",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:13.637+01:00",
+      "updatedDate": "2019-02-20T14:08:13.637+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "164368b2-359b-49d3-89a5-8592fe8696e9",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "fe61ff2e-a391-4f3c-9f3e-5dd4332f1d4a",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "8505093207818",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:16.73+01:00",
+      "updatedDate": "2019-02-20T14:08:16.73+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "d0a911fa-8098-4b68-8e8c-8a1094879a51",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "9bb908dd-78e7-4766-860f-50e8d90f4127",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "5101543797693",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:16.998+01:00",
+      "updatedDate": "2019-02-20T14:08:16.998+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "4a8ca870-252d-45ea-8ef8-6d93864e17a3",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "7708c889-4a4f-41e9-a527-9b5776f27cf3",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "5292130925362",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:20.313+01:00",
+      "updatedDate": "2019-02-20T14:08:20.313+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "b643d7b3-2c4d-4126-ac4a-3705062fbaed",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "323293a4-391d-4a12-b73c-9580d8b20bfa",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "0882511204519",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:20.63+01:00",
+      "updatedDate": "2019-02-20T14:08:20.63+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "92168561-d7ae-4036-958d-33865f217f04",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "1cf059cd-66bd-4809-9f5b-dc3f71420f82",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "4353659383185",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:23.393+01:00",
+      "updatedDate": "2019-02-20T14:08:23.393+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "84e02b39-d82d-4049-8d70-7d07fc3f6fdc",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "b0458e35-0827-4411-98f7-5d29523ca850",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "1953253206775",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:23.664+01:00",
+      "updatedDate": "2019-02-20T14:08:23.664+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "b82b0012-1e02-47a1-963c-e5861fc3a849",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "6d9f4e45-9b1d-4506-a787-3cc855e6c576",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "6072580728713",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:26.313+01:00",
+      "updatedDate": "2019-02-20T14:08:26.313+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "8ebd7922-243c-471a-a90e-f311ee0f900d",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "3d2706af-77f5-4fcb-a392-73d2dc71ffa0",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "9111905674967",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:13.775+01:00",
+      "updatedDate": "2019-02-20T14:08:13.775+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "ba54c900-3db3-491f-9314-5bcf491284be",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "bf93e742-b518-4312-a8de-c7c692860586",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "5739248346415",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:17.017+01:00",
+      "updatedDate": "2019-02-20T14:08:17.017+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "15d99878-ada5-4f5a-8295-6bff8337119f",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "1c24e13f-8ab4-48d1-970f-84e546756872",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "4844462575784",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:20.704+01:00",
+      "updatedDate": "2019-02-20T14:08:20.704+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "9e139bdd-5790-4bad-a1f2-d891a7fc9c79",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "cacde73f-fd27-4cbb-b786-0c4fa2b16d0a",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "8326646270382",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:23.844+01:00",
+      "updatedDate": "2019-02-20T14:08:23.844+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "4c590361-9a6d-4209-8d83-ee223231724e",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "7ec057af-f258-4cd5-b08c-c9630ae18d19",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "3416002003204",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:26.7+01:00",
+      "updatedDate": "2019-02-20T14:08:26.7+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "ab2074e2-3f38-4305-a3f0-aa916e23c4ff",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "d7e345d2-2619-4896-9736-2e432bd4762b",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "4850765017257",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:30.256+01:00",
+      "updatedDate": "2019-02-20T14:08:30.256+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "bc602435-4d8b-466c-9b4e-109aa9a184bc",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "875fd413-c778-4bd0-8245-2e4cae616173",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "0137145784747",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:33.166+01:00",
+      "updatedDate": "2019-02-20T14:08:33.166+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "3d89fdef-ae3f-4e9e-9e4b-667c85273306",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "fbe5135d-319e-4fe3-b263-f9a4fcaeecff",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "0775356330338",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:36.345+01:00",
+      "updatedDate": "2019-02-20T14:08:36.345+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "def328aa-b200-4861-a88d-4516e12a2d2c",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "fc600d4b-f88f-4f79-aad3-5b1ad73278df",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "1995735942384",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:39.172+01:00",
+      "updatedDate": "2019-02-20T14:08:39.172+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "1dc41803-7896-483c-aa4c-9a8a0e9fc276",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "68ba0b5d-9ea5-427e-ac62-7061edf19c98",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "4401062398404",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:13.814+01:00",
+      "updatedDate": "2019-02-20T14:08:13.814+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "d183865f-ace8-4dab-bdd3-a0d4e0d437f9",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "21e0f021-abad-4614-9b4d-d2a62abcb1ee",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "1646607826299",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:17.144+01:00",
+      "updatedDate": "2019-02-20T14:08:17.144+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "ba8e9e7a-0347-4bce-a0c6-1837722552de",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "b161ed33-01a3-4c16-b3f0-e93515773690",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "2241949007027",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:20.83+01:00",
+      "updatedDate": "2019-02-20T14:08:20.83+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "827baa75-aec1-45fc-86ad-d38e89a2c7d6",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "66858149-8e66-4c77-b991-b9a5031aca6b",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "5943866318996",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:23.976+01:00",
+      "updatedDate": "2019-02-20T14:08:23.976+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "b51ea007-cbd5-4831-9592-1db817e34c34",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "5f804705-15f0-4b98-a0b9-32e6b05cf4c6",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "6439570848103",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:26.756+01:00",
+      "updatedDate": "2019-02-20T14:08:26.756+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "9083fd25-176f-4df4-ab82-0c3077f05a34",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "ac03a54a-6e07-4f4e-9977-8d8e29110072",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "6807645045596",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:30.297+01:00",
+      "updatedDate": "2019-02-20T14:08:30.297+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "ce6f486f-e558-4e7a-98c4-59ffe1fb7be0",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "db04f8e2-0bf5-4efb-967a-e2b0da56a2e2",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "5009204249367",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:33.357+01:00",
+      "updatedDate": "2019-02-20T14:08:33.357+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "7a0990af-3dc8-4525-8230-123ade3c56e2",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "abc74325-c409-45bb-a98d-afd4d3aa52d9",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "1413844000275",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:36.469+01:00",
+      "updatedDate": "2019-02-20T14:08:36.469+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "09897ed5-77c5-40c6-85d6-5ea120ad58e2",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "099cfe25-d281-41a9-a3dd-3cae0cb17647",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "4167429983693",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:39.253+01:00",
+      "updatedDate": "2019-02-20T14:08:39.253+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "217593bd-a359-4931-a578-19a2df97b9fc",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "09760338-5b78-461e-b7a5-610ec3f30d31",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "3798679185006",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:13.905+01:00",
+      "updatedDate": "2019-02-20T14:08:13.905+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "8f7ff15c-ba04-4aa5-8a6d-ecb8b8ad9b9f",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "61765de6-7dac-4c11-bfa0-212a1406193a",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "4537736612622",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:17.278+01:00",
+      "updatedDate": "2019-02-20T14:08:17.278+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "7b95bd17-19dd-4103-80aa-d82f626c807e",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "15a75236-008e-489f-8837-78a17a4be5d7",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "2365814360028",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:20.94+01:00",
+      "updatedDate": "2019-02-20T14:08:20.94+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "f9d73f3f-95ba-4245-8c15-fd1d9c8eb8bc",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "92f2154f-723a-4d7c-bad1-98be0f65d930",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "8561223381460",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:23.987+01:00",
+      "updatedDate": "2019-02-20T14:08:23.987+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "1b5acabc-571f-4e95-9071-b8cd91be3981",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "bcd0a6ab-2f6d-4fd9-9cc9-b45b0af328e3",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "2745667850945",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:26.922+01:00",
+      "updatedDate": "2019-02-20T14:08:26.922+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "576ae67d-be58-4c9b-8e7f-18ae1264de33",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "55e19eb7-0199-4b35-9881-ae0315369f4c",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "9358612242787",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:30.483+01:00",
+      "updatedDate": "2019-02-20T14:08:30.483+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "60767753-008a-4ab0-bd61-d96d7e92be1f",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "0c43ab18-dd59-4d45-8fd6-f81f30d4e064",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "9695819122575",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:33.447+01:00",
+      "updatedDate": "2019-02-20T14:08:33.447+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "9af6ec6a-423f-44aa-a9ba-94a51c65ee71",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "2ab77993-40da-4767-b746-b8797bb7fd4d",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "2476112624852",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:36.7+01:00",
+      "updatedDate": "2019-02-20T14:08:36.7+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "dcd45434-ce48-43f0-af21-0a9f844fbc05",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "d8adc605-66bd-49e2-9306-a9edcf4e2f61",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "2333983649655",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:39.811+01:00",
+      "updatedDate": "2019-02-20T14:08:39.811+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "03baa261-ad4d-4f89-a986-bbec375b7fe2",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "f05298b6-6e85-4f35-840b-9fd2211b5198",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "8655729982375",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:15.01+01:00",
+      "updatedDate": "2019-02-20T14:08:15.01+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "c0dfa02b-24bc-4174-8ee6-6e0e51785a87",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "10ef35da-0c25-49ca-b2d5-e07abab494c9",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "9546958212529",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:18.452+01:00",
+      "updatedDate": "2019-02-20T14:08:18.452+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "863b9c0e-dab2-4852-aa16-ad4d1d561903",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "5e0a6acf-c616-4c86-bf1d-19e2e48defca",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "0436961115541",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:21.931+01:00",
+      "updatedDate": "2019-02-20T14:08:21.931+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "75bb615f-3e65-4842-8b46-2332fb26a478",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "22071b9f-7938-453d-b12f-cf21d5ca303d",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "8481372202970",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:24.915+01:00",
+      "updatedDate": "2019-02-20T14:08:24.915+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "a5a9b78a-6b34-47f7-8f65-2a927607bd42",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "f92c605e-3e4c-45e9-aa08-a28f51f9ac50",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "9867244074059",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:28.056+01:00",
+      "updatedDate": "2019-02-20T14:08:28.056+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "3895f078-aca5-4f54-a893-0e30172e3796",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "4f31bb48-d97b-45c3-bd42-517496ec7d8a",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "6090281347786",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:31.233+01:00",
+      "updatedDate": "2019-02-20T14:08:31.233+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "c68f3a4e-830d-45b5-a9ab-0edbc15cccbb",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "dfefc6c2-543a-4e31-80f0-c52ec468738e",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "7631993120364",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:34.249+01:00",
+      "updatedDate": "2019-02-20T14:08:34.249+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "dd9c0a99-bfde-4ed4-bfae-3f32a5d98382",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "9d2d9e28-571a-4094-8506-3a27f7ebea58",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "6024885888223",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:37.421+01:00",
+      "updatedDate": "2019-02-20T14:08:37.421+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "53a2928a-8d56-4f75-8b95-b907045e2551",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "9e2f6515-820c-4d1f-89ec-d792ff1f0669",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "7263199755578",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:40.6+01:00",
+      "updatedDate": "2019-02-20T14:08:40.6+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "79ffc329-cd31-4ad3-8f08-9435e9a37ade",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "5c2afb23-9c04-48d2-8953-7ca0b65dcf0a",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "6853813792976",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:15.248+01:00",
+      "updatedDate": "2019-02-20T14:08:15.248+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "354f880e-6780-443e-a304-e2d2d0cfa5d1",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "56d59814-52f1-4815-8dd0-53e5815f448d",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "4005468904043",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:22.181+01:00",
+      "updatedDate": "2019-02-20T14:08:22.181+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "8e63766d-5830-40f1-81a2-6beaf36a0509",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "2761b646-0f9f-4e15-bafc-4a6256770b59",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "6422615329000",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:25.147+01:00",
+      "updatedDate": "2019-02-20T14:08:25.147+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "e66aad93-b67a-42c1-b458-375051c4268d",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "90276c06-52d9-4bee-ab1a-49daa023e2ef",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "8771152714626",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:28.22+01:00",
+      "updatedDate": "2019-02-20T14:08:28.22+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "b40ebd83-e025-4d30-8288-f39ab5fdd372",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "b333861c-36d5-4350-b153-eb7341ccf8f7",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "0195964528338",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:31.485+01:00",
+      "updatedDate": "2019-02-20T14:08:31.485+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "4a908372-4598-4de2-8dd8-d07f7fbd6537",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "0c80f5fd-6bac-46bb-9014-734625939130",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "1802981375624",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:34.563+01:00",
+      "updatedDate": "2019-02-20T14:08:34.563+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "9721ded9-302a-442d-a6b0-efd64081937f",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "461133a3-0714-4f31-b675-7d4d7a6c09d2",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "0257123364255",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:37.738+01:00",
+      "updatedDate": "2019-02-20T14:08:37.738+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "5e65b002-56f6-49bb-94d0-f1c455a109df",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "ef62d00f-ddf5-482d-9703-6e50f19112a3",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "3603620190920",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:40.801+01:00",
+      "updatedDate": "2019-02-20T14:08:40.801+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "578a9b55-45bc-4589-9be5-64ef03b7290a",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "5e858b51-aec9-4578-a899-0007c9f51413",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "2048418555431",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:15.425+01:00",
+      "updatedDate": "2019-02-20T14:08:15.425+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "71b6e601-698e-4d4a-b0f5-7be001ff22b1",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "67e58efc-7119-41ac-8bc7-3c6310b09ba8",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "8276937547268",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:18.85+01:00",
+      "updatedDate": "2019-02-20T14:08:18.85+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "e40303f3-0c7b-4566-8b00-bd534e0b6ef0",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "6be30d8f-5962-4895-86b8-529574c4aa5b",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "9915870255751",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:22.239+01:00",
+      "updatedDate": "2019-02-20T14:08:22.239+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "6bf86d73-a0fc-4c2a-a564-2f431ecb30e4",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "b9c25353-1d75-4774-8f8f-ce5ae16331a7",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "4895834510631",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:25.289+01:00",
+      "updatedDate": "2019-02-20T14:08:25.289+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "2720145a-e693-41b2-99ab-df0032e5b839",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "d7608e6a-c609-47ef-8ad8-77a9a60ac151",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "7081137787122",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:28.456+01:00",
+      "updatedDate": "2019-02-20T14:08:28.456+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "282eeaa9-7826-40b6-bea0-590fa01fa038",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "d908d1cd-bc01-46ad-b783-4ce5b9d1029c",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "3575827793020",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:31.65+01:00",
+      "updatedDate": "2019-02-20T14:08:31.65+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "16af40d9-b83c-4780-a1a6-bc66520515fd",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "6085d162-d118-4b5f-848e-1cc815183241",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "0908373971892",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:34.576+01:00",
+      "updatedDate": "2019-02-20T14:08:34.576+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "884dc6aa-b4e5-4f5f-8585-20cd557e02f6",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "5cc9abdc-3214-4891-86d7-a8ee5dd1d589",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "1472383039757",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:37.76+01:00",
+      "updatedDate": "2019-02-20T14:08:37.76+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "9e7ade9f-1fc9-4f71-b6ff-977fa078ec46",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "743f7952-2be3-4694-960b-aa28b910d417",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "2598292013908",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:40.814+01:00",
+      "updatedDate": "2019-02-20T14:08:40.814+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "8449401f-144f-4adb-aafb-a2937521209c",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "b3f1e2e5-2abc-406d-a7b0-f269754c8dc9",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "7770661133234",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:15.456+01:00",
+      "updatedDate": "2019-02-20T14:08:15.456+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "4e038cec-39e3-4045-ba7b-872fea7e3022",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "a25d98e1-9dda-4e0e-aa18-c7fa18a15075",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "4622198615512",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:19.006+01:00",
+      "updatedDate": "2019-02-20T14:08:19.006+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "59891d3b-c747-425c-97b7-1df80e16dd08",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "976078e8-5e62-49a1-9604-642755ecc7cd",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "9545091548722",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:22.476+01:00",
+      "updatedDate": "2019-02-20T14:08:22.476+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "5f4a106c-b4ab-4791-ac7d-d15d57b2e33b",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "5ef0ebad-a2a9-495a-a9dc-e77e3506d8ad",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "4290620188364",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:25.393+01:00",
+      "updatedDate": "2019-02-20T14:08:25.393+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "3f2bc73f-07d2-45ea-a5d9-7e9867d0dbb0",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "ce9d625d-9bce-4780-a0fe-8d98208989ed",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "2682788173054",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:28.734+01:00",
+      "updatedDate": "2019-02-20T14:08:28.734+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "59fa19cf-7446-4adc-a8d8-8f3faf71184d",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "1bfcb3fd-94a5-439d-b0c3-48a984d858c5",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "6214635593916",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:31.918+01:00",
+      "updatedDate": "2019-02-20T14:08:31.918+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "5b63f12a-e839-458e-a93a-71a045661cc4",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "6e44269c-2a95-4953-a35e-2e90df618320",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "3022001270680",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:34.895+01:00",
+      "updatedDate": "2019-02-20T14:08:34.895+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "617273a0-bd75-4329-bad5-6a286f837656",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "a8131808-4a3a-4a1a-a66c-82acc792048d",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "5778957989895",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:38.137+01:00",
+      "updatedDate": "2019-02-20T14:08:38.137+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "f07b7761-4b1a-4af2-a30d-2301471ad5c0",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "f03c09d2-bb44-46cd-85c5-6c15c6e93b55",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "6044548794647",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:41.287+01:00",
+      "updatedDate": "2019-02-20T14:08:41.287+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "88c997d8-e997-4564-a666-5dd4c9cafb26",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "149b00da-eaca-4c63-921e-dc83b8c205c7",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "1501666275552",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:15.459+01:00",
+      "updatedDate": "2019-02-20T14:08:15.459+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "17c05b2f-4728-4273-b7e2-1952e1a0011e",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "0c927413-e5a9-4162-a5b6-abb5945d1bd9",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "0489356946428",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:18.979+01:00",
+      "updatedDate": "2019-02-20T14:08:18.979+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "d0846857-8233-450c-a1f3-1659398086ee",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "39b742d5-3ca5-42f5-bbad-2989c758023c",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "6031388415038",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:22.394+01:00",
+      "updatedDate": "2019-02-20T14:08:22.394+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "3892fee1-0f89-452c-a9dc-78815fb08980",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "acb41250-bdad-4046-89cd-b036a6851658",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "2453505835707",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:25.385+01:00",
+      "updatedDate": "2019-02-20T14:08:25.385+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "17e38dc9-b1f0-4353-9a3a-a6ae0c45e12d",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "ba26ae8b-ed62-4288-a567-d31568a3134b",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "6763674727065",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:28.531+01:00",
+      "updatedDate": "2019-02-20T14:08:28.531+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "59ef4dce-b65a-4286-9f24-0245b428ae2e",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "3f8e9dbb-798b-4487-af66-533af2c5f3f5",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "8937717298482",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:31.749+01:00",
+      "updatedDate": "2019-02-20T14:08:31.749+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "cfe8bca6-e814-4a2a-98b0-7ea8c52a47ee",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "4cbc92aa-4c3b-46b6-b5d8-b26be1449a39",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "2707980127403",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:34.723+01:00",
+      "updatedDate": "2019-02-20T14:08:34.723+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "10538e49-645f-47dd-8fdf-ae76d9497e49",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "0d3a6c73-8d4f-4074-8b14-23738e1435df",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "6341749209138",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:37.856+01:00",
+      "updatedDate": "2019-02-20T14:08:37.856+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "abfdf345-b7c9-4b50-bf16-7b34dac2b8a3",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "0ac740ad-675c-4c74-b93e-0cc9ac0c2862",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "9493877766418",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:40.845+01:00",
+      "updatedDate": "2019-02-20T14:08:40.845+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "863b9c0e-dab2-4852-aa16-ad4d1d561903",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "83aa272a-f112-4e57-8ea4-dc7e9402abf1",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "1864307491045",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:26.539+01:00",
+      "updatedDate": "2019-02-20T14:08:26.539+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "087e474b-7ac9-4ce3-a891-492c79bd7f7a",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "9d8f9709-d193-4533-80eb-36de418ec20e",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "7197884855418",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:30.082+01:00",
+      "updatedDate": "2019-02-20T14:08:30.082+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "3176d1de-668f-4451-92f7-5fc4801c8245",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "db0c3d92-678f-4991-9ed0-f8bc7ad0d312",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "6835850368643",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:33.11+01:00",
+      "updatedDate": "2019-02-20T14:08:33.11+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "fa4990b4-d1f0-4094-af7d-f1a762780c09",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "308f5268-41ba-44a7-b86c-c7f68d46dadf",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "7041345600523",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:36.303+01:00",
+      "updatedDate": "2019-02-20T14:08:36.303+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "5e63196b-ae48-4d6d-9d24-998df88edf08",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "73aaffc0-b573-4cc3-88db-5f2b757625af",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "7156194884868",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:39.139+01:00",
+      "updatedDate": "2019-02-20T14:08:39.139+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "8652c22c-012e-4bfc-ae7c-7cad29bdec25",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "4b174d10-dc83-430a-aac5-f769bb466aa1",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "2887532577331",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:42.181+01:00",
+      "updatedDate": "2019-02-20T14:08:42.181+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "863b9c0e-dab2-4852-aa16-ad4d1d561903",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "5260f14b-da9f-408b-8e6c-99bd75e690fd",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "777",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:45.264+01:00",
+      "updatedDate": "2019-02-20T14:08:45.264+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "aad64a02-bd60-4fcd-a3b1-440da0a5b386",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "122d191c-a9c0-4985-b19a-bbf2c5f96990",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "9620824530544",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:29.858+01:00",
+      "updatedDate": "2019-02-20T14:08:29.858+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "e64322eb-1c89-4061-bfd7-4b3e589dbcac",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "3396c1d4-6a24-4477-9273-4a8d2333198a",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "9380426956052",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:32.764+01:00",
+      "updatedDate": "2019-02-20T14:08:32.764+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "2fb2dc65-7bca-46ba-9437-05ff97b08846",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "ab1e523c-05d8-4c7c-b186-78fe03bae2f8",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "6946936169148",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:38.84+01:00",
+      "updatedDate": "2019-02-20T14:08:38.84+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "280e270f-c8b7-4985-ae00-5c455e8fadd4",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "b777243b-570d-46a5-b9e9-6c9d5300f443",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "0731591647831",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:42.059+01:00",
+      "updatedDate": "2019-02-20T14:08:42.059+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "5c16c45e-e4bb-48f7-8d4c-bae73fa735b7",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "d22186b9-f80b-4389-bb05-fa21ee681efc",
+    "notes": [],
+    "status": {
+      "name": "Checked out"
+    },
+    "barcode": "666",
+    "metadata": {
+      "createdDate": "2019-02-20T13:08:45.116",
+      "updatedDate": "2019-03-18T07:01:48.866+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "5ece3376-0fed-4fda-9f07-7b664008a48c",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "8d89bf86-04e8-4018-a10d-80d5e66e9192",
+    "notes": [],
+    "status": {
+      "name": "Checked out"
+    },
+    "barcode": "3895508001509",
+    "metadata": {
+      "createdDate": "2019-02-20T13:08:36.029",
+      "updatedDate": "2019-03-18T12:33:31.957+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "e8de22c6-c615-40a9-b3c5-69cd8482e7be",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "bbc93396-520f-4b8d-869b-73a20b656006",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "5860825104574",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:42.227+01:00",
+      "updatedDate": "2019-02-20T14:08:42.227+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "5511b7dc-cf1b-4f2a-9d96-f446fecfcc10",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "443281a0-5ec2-4b7d-83f1-0da8fb6d432a",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "0760027217101",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:42.34+01:00",
+      "updatedDate": "2019-02-20T14:08:42.34+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "280e270f-c8b7-4985-ae00-5c455e8fadd4",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "0f1d39d1-f7c3-4212-8978-d03a2df8be76",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "3777437821858",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:42.745+01:00",
+      "updatedDate": "2019-02-20T14:08:42.745+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "280e270f-c8b7-4985-ae00-5c455e8fadd4",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "30253c47-cdc8-4b95-a639-f6996bb55aa0",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "7397471972460",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:43.376+01:00",
+      "updatedDate": "2019-02-20T14:08:43.376+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "f0d4ad4c-b5d5-4ecc-aca8-a3f796fae5dd",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "548d8033-0841-4b8f-b827-6bfc92e599bd",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "9311441145516",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:43.563+01:00",
+      "updatedDate": "2019-02-20T14:08:43.563+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "280e270f-c8b7-4985-ae00-5c455e8fadd4",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "44617870-a438-41f2-bb57-eaa52733cec1",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "7391332698702",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:43.629+01:00",
+      "updatedDate": "2019-02-20T14:08:43.629+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "7e3a3b41-5b9f-4cf2-8b58-15e804eb06b5",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "42b787d2-5507-4014-831c-2b4a9efd3f21",
+    "notes": [],
+    "status": {
+      "name": "Available"
+    },
+    "barcode": "6128667092942",
+    "metadata": {
+      "createdDate": "2019-02-20T14:08:43.684+01:00",
+      "updatedDate": "2019-02-20T14:08:43.684+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "00b11492-8314-4345-b32c-b8e2e33dd3bc",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "7d364558-fe5f-4e56-a02f-b5139d586b7d",
+    "notes": [],
+    "status": {
+      "name": "Checked out"
+    },
+    "barcode": "555",
+    "metadata": {
+      "createdDate": "2019-02-20T13:08:44.272",
+      "updatedDate": "2019-03-18T15:08:50.911+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "d79ef2c3-c1e4-4841-bc01-8689a4ab6c4f",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  },
+  {
+    "id": "b27346e6-71a2-483a-b6f1-0658cf03a89e",
+    "notes": [],
+    "status": {
+      "name": "Checked out"
+    },
+    "barcode": "5726677987597",
+    "metadata": {
+      "createdDate": "2019-02-20T13:08:18.771",
+      "updatedDate": "2019-03-21T13:21:02.961+01:00",
+      "createdByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001",
+      "updatedByUserId": "907cabd7-f82c-44c6-b3d4-4ef0e9f9f001"
+    },
+    "formerIds": [],
+    "copyNumbers": [],
+    "yearCaption": [],
+    "materialTypeId": "1a54b431-2e4f-452d-9cae-9cee66c9a892",
+    "electronicAccess": [],
+    "holdingsRecordId": "8286e6ea-606d-4fda-a641-5056b9d5d6c0",
+    "statisticalCodeIds": [],
+    "permanentLoanTypeId": "2b94c631-fca9-4892-a730-03ee529ffe27"
+  }]
