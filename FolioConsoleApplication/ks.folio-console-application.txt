@@ -112,11 +112,15 @@ Jetzt in echt laden:
 dotnet FolioConsoleApplication.dll -load -instancespath 2017-11-Business_Management_Economics_UTF8.mrc.json  >> loadinstances.log
 Jetzt kommt doch tatsächlich:
   folioConsoleApplication Critical: 0 : Npgsql.PostgresException (0x80004005): 23505: duplicate key value violates unique constraint "instance_pkey"
-Die Titel hatte ich offensichtlich schon einmal geladen.
+Die Titel hatte ich offensichtlich schon einmal geladen. Wann bloß ? Mgwl. macht der "validate" doch mehr als nur validieren...
 Jetzt erfinde ich einfach neue Keys - 3., 4.und 5. Stelle ist jeweils "9"
 Jetzt geht's!
 
-Jetzt mal die beiden Datensätze "The Austrian and Bloomington schools" mit curl GET auf /instance-storage/instances/{instanceId} wieder runter laden.
+Einen der eben geladenen Titeldatensätze mit SQL wieder herunterladen:
+dotnet FolioConsoleApplication.dll -save -instancespath aa997129-5d24-4021-8075-6d8f19afb030.json -instanceswhere "jsonb->>'id' = 'aa997129-5d24-4021-8075-6d8f19afb030'"
 
-
+Jetzt mal denselben Datensatz mit curl GET auf /instance-storage/instances/{instanceId} wieder runter laden. Also direkt auf die API der FOLIO-Instanz gehen:
+OKAPI=https://folio-demo.hbz-nrw.de/okapi
+TOKEN=$( curl -s -S -D - -H "X-Okapi-Tenant: diku" -H "Content-type: application/json" -H "Accept: application/json" -d '{"tenant":"diku","username":"diku_admin","password":"admin"}' $OKAPI/authn/login | grep -i "^x-okapi-token: " )
+curl -s -S -D - -H "$TOKEN" -H "X-Okapi-Tenant: diku" -H "Content-type: application/json" -H "Accept: application/json" $OKAPI/instance-storage/instances/aa997129-5d24-4021-8075-6d8f19afb030
 
