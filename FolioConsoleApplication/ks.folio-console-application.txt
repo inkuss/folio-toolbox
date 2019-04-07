@@ -1,0 +1,122 @@
+02.04.2019
+Install FOLIO console application written by Jon Miller
+https://github.com/jemiller0/Folio
+Install .NET Core SDK
+Install from tar ball (binary)
+https://dotnet.microsoft.com/download/thank-you/dotnet-sdk-2.2.105-linux-x64-binaries
+1. Open a terminal and run the following commands to extract the SDK and make the commands available at the terminal.
+cd ~/Downloads
+mkdir -p $HOME/dotnet && tar zxf dotnet-sdk-2.2.105-linux-x64.tar.gz -C $HOME/dotnet
+export DOTNET_ROOT=$HOME/dotnet
+export PATH=$PATH:$HOME/dotnet
+
+In /etc/profile 1 Zeile hinzufügen, hier:
+   for dir in  /usr/X11/bin \
+                /usr/bin/X11 \
+                /usr/X11R6/bin \
+                /var/lib/dosemu \
+                /usr/games \
+                /opt/bin \
+                /opt/kde3/bin \
+                /opt/kde2/bin \
+                /opt/kde/bin \
+                /usr/openwin/bin \
+                /opt/cross/bin \
+                /usr/folio/dotnet               <==============
+    do
+        test -d $dir && PATH=$PATH:$dir
+    done
+    unset dir
+    export PATH
+
+Außerdem am Ende von /etc/profile hinzufügen:
+#
+# Dotnet 
+#
+if test -z "$PROFILEREAD" ; then
+    DOTNET_ROOT=$HOME/dotnet
+    export DOTNET_ROOT
+fi
+
+2. Test dotnet
+dotnet
+
+Usage: dotnet [options]
+Usage: dotnet [path-to-application]
+
+Options:
+  -h|--help         Display help.
+  --info            Display .NET Core information.
+  --list-sdks       Display the installed SDKs.
+  --list-runtimes   Display the installed runtimes.
+
+path-to-application:
+  The path to an application .dll file to execute.
+
+# die Anwendung bauen
+cd ~
+git clone https://github.com/jemiller0/Folio.git
+cd Folio
+dotnet build
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+cd FolioConsoleApplication/bin/Debug/netcoreapp2.2
+dotnet FolioConsoleApplication.dll
+
+FolioConsoleApplication Information: 0 : Created /usr/folio/Folio/FolioConsoleApplication/bin/Debug/netcoreapp2.2/ConnectionStrings.config
+    ThreadId=1
+    DateTime=2019-04-03T12:52:05.5269490Z
+FolioConsoleApplication Information: 0 : Created /usr/folio/Folio/FolioConsoleApplication/bin/Debug/netcoreapp2.2/AppSettings.config
+    ThreadId=1
+    DateTime=2019-04-03T12:52:05.5275664Z
+
+FolioConsoleApplication Critical: 0 : Usage: dotnet FolioConsoleApplication.dll [-All] [-Api] [-Delete] [-Load] [-Save] [-Validate] [-Verbose] [-AllUsers] [-AllInventory] [-AllLogin] [-AllPermissions] [-AddressTypesPath <string>] [-AddressTypesWhere <string>] [-AlternativeTitleTypesPath <string>] [-AlternativeTitleTypesWhere <string>] [-CallNumberTypesPath <string>] [-CallNumberTypesWhere <string>] [-CampusesPath <string>] [-CampusesWhere <string>] [-ClassificationTypesPath <string>] [-ClassificationTypesWhere <string>] [-ContributorNameTypesPath <string>] [-ContributorNameTypesWhere <string>] [-ContributorTypesPath <string>] [-ContributorTypesWhere <string>] [-ElectronicAccessRelationshipsPath <string>] [-ElectronicAccessRelationshipsWhere <string>] [-GroupsPath <string>] [-GroupsWhere <string>] [-HoldingsPath <string>] [-HoldingsWhere <string>] [-HoldingNoteTypesPath <string>] [-HoldingNoteTypesWhere <string>] [-HoldingTypesPath <string>] [-HoldingTypesWhere <string>] [-IdTypesPath <string>] [-IdTypesWhere <string>] [-IllPoliciesPath <string>] [-IllPoliciesWhere <string>] [-InstancesPath <string>] [-InstancesWhere <string>] [-InstanceFormatsPath <string>] [-InstanceFormatsWhere <string>] [-InstanceRelationshipsPath <string>] [-InstanceRelationshipsWhere <string>] [-InstanceRelationshipTypesPath <string>] [-InstanceRelationshipTypesWhere <string>] [-InstanceStatusesPath <string>] [-InstanceStatusesWhere <string>] [-InstanceTypesPath <string>] [-InstanceTypesWhere <string>] [-InstitutionsPath <string>] [-InstitutionsWhere <string>] [-ItemsPath <string>] [-ItemsWhere <string>] [-ItemNoteTypesPath <string>] [-ItemNoteTypesWhere <string>] [-LibrariesPath <string>] [-LibrariesWhere <string>] [-LoanTypesPath <string>] [-LoanTypesWhere <string>] [-LocationsPath <string>] [-LocationsWhere <string>] [-LoginsPath <string>] [-LoginsWhere <string>] [-MaterialTypesPath <string>] [-MaterialTypesWhere <string>] [-ModeOfIssuancesPath <string>] [-ModeOfIssuancesWhere <string>] [-PermissionsPath <string>] [-PermissionsWhere <string>] [-PermissionsUsersPath <string>] [-PermissionsUsersWhere <string>] [-ProxiesPath <string>] [-ProxiesWhere <string>] [-ServicePointsPath <string>] [-ServicePointsWhere <string>] [-ServicePointUsersPath <string>] [-ServicePointUsersWhere <string>] [-StatisticalCodesPath <string>] [-StatisticalCodesWhere <string>] [-StatisticalCodeTypesPath <string>] [-StatisticalCodeTypesWhere <string>] [-UsersPath <string>] [-UsersWhere <string>]
+
+vim ConnectionStrings.config
+<connectionStrings>
+  <add name="FolioContext" providerName="Npgsql" connectionString="Host=localhost;Username=folio;Password=folio123;Database=folio" />
+</connectionStrings>
+
+vim AppSettings.config
+<appSettings>
+  <add key="url" value="http://localhost:9130"/>
+  <add key="tenant" value="diku"/>
+  <add key="username" value="diku_admin"/>
+  <add key="password" value="admin"/>
+</appSettings>
+
+Examples
+
+Save all using SQL
+dotnet FolioConsoleApplication.dll -save -all > saveall.log
+...
+FolioConsoleApplication Information: 0 : Saved 6554 instances
+FolioConsoleApplication Information: 0 : Saved 120 holdings
+FolioConsoleApplication Information: 0 : Saved 120 items
+
+Load Instances
+pwd 
+~/Folio/FolioConsoleApplication/bin/Debug/netcoreapp2.2
+Versuche, mit ./ks.load_marc-data_test.sh erzeugtes JSON Instances zu laden.
+dotnet FolioConsoleApplication.dll -load -instancespath 2017-11-Business_Management_Economics_UTF8.mrc.json -validate >> loadinstances.validate.log
+kommt
+PropertyRequired: #/source NoAdditionalPropertiesAllowed: #/urls
+Na gut, füge "source": "MARC" überall ein, hinter "series".
+Entferne "urls"=[],
+Jetzt Critical: ArrayItemNotValid: #/alternativeTitles[0]
+entferne Inhalte aus alternativen Titeln
+Jetzt in echt laden:
+dotnet FolioConsoleApplication.dll -load -instancespath 2017-11-Business_Management_Economics_UTF8.mrc.json  >> loadinstances.log
+Jetzt kommt doch tatsächlich:
+  folioConsoleApplication Critical: 0 : Npgsql.PostgresException (0x80004005): 23505: duplicate key value violates unique constraint "instance_pkey"
+Die Titel hatte ich offensichtlich schon einmal geladen.
+Jetzt erfinde ich einfach neue Keys - 3., 4.und 5. Stelle ist jeweils "9"
+Jetzt geht's!
+
+Jetzt mal die beiden Datensätze "The Austrian and Bloomington schools" mit curl GET auf /instance-storage/instances/{instanceId} wieder runter laden.
+
+
+
