@@ -1,0 +1,53 @@
+# Konvertierung der Exportdaten ALEPH sequential => MARC Bandformat
+Catmandu Installation: http://librecat.org/Catmandu/#installation
+dauert 20 Minuten; schließlich:
+Building and testing Catmandu-MARC-1.24 ... OK
+Successfully installed Catmandu-MARC-1.24
+156 distributions installed
+
+https://metacpan.org/pod/Catmandu::Importer::MARC
+cpanm Catmandu::Importer::MARC
+Catmandu::Importer::MARC is up to date. (1.24)
+
+Ausgangsdaten: 
+hbz01.w0001.wbb.sys.ok.z103.sys.seq
+Export aus der Verbunddatenbank, ALEPH sequential im Format MAB2. Titeldaten.
+Mit "BVB-Konverter" (Perl-Skript; für hbz-Daten angepasst) nach "D-MARC" konvertiert (weiterhin im Format ALEPH sequential).
+hbz01.w0001.wbb.sys.ok.z103.sys.seq.marc
+hbz01.w0001.wbb.sys.ok.z103.sys.seq.marc.first10 (nur die ersten 10 Titel)
+
+Konvertierung MARC ALEPH sequential nach MARC JSON (default)
+  catmandu convert MARC --type ALEPHSEQ < hbz01.w0001.wbb.sys.ok.z103.sys.seq.marc.first10 > hbz01.w0001.wbb.sys.ok.z103.sys.marc.first10.json
+
+Konvertierung MARC ALEPH sequential nach MARC binär ("Bandformat")
+  catmandu convert MARC --type ALEPHSEQ to MARC < hbz01.w0001.wbb.sys.ok.z103.sys.seq.marc.first10 > hbz01.w0001.wbb.sys.ok.z103.sys.first10.mrc
+
+27.03.2019
+Installation FOLIO mod-data-loader zur Konversion MARC binär nach FOLIO Instance JSON (=Titeldaten)
+https://github.com/folio-org/mod-data-loader
+RMB-based module used to load test data.
+Currently supports loading binary MARC records into the mod-inventory-storage instance table.
+
+Run mod-data-loader using default port 8081 in second console:
+folio@folio-demo
+cd /usr/folio/additionalModules
+git clone https://github.com/folio-org/mod-data-loader.git
+cd mod-data-loader/
+git submodule update --init
+mvn clean install
+BUILD SUCCESS
+
+Start des mod-data-loader lokal auf Port 8081:
+java -jar target/mod-data-loader-fat.jar
+
+
+01.04.2019
+ssh folio@folio-demo
+cd verbunddata/export/
+# FOLIO "Rules-Datei" laden
+./ks.load_marc-data_rules.sh => HTTP/1.1 201 Created
+# Konversion MARC binär nach FOLIO Instance JSON
+./ks.load_marc-data_test.sh
+Erhalte Instance JSON.
+
+# ./ks.load_marc-data.sh ## geht nicht, Datenmodelle des Loader und der FOLIO Instanz sind auf verschiedenen Ständen.
