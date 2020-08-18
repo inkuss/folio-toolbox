@@ -1,0 +1,58 @@
+{
+  "id": null,
+  "hrid": "Exemplarsatz Nr. 0001",
+  "holdingsRecordId": "b81136f7-a2ee-432e-862a-2c655552271e",
+  "accessionNumber": "Zugangsnummer oder Akzessionsnummer",
+  "barcode": "Barcode (Strichcode)",
+  "itemLevelCallNumber": "Magazinsignatur",
+  "itemLevelCallNumberPrefix": "Prefix der Magazinsignatur",
+  "itemLevelCallNumberSuffix": "Suffix der Magazinsignatur",
+  "itemLevelCallNumberTypeId": "d9f45e0c-5048-4c78-aeec-bc961fb2366c",
+  "volume": "Band 1 (2019)",
+  "enumeration": "jährliche Bindung",
+  "chronology": "Chronologie: YYYY",
+  "itemIdentifier": "Exemplar-ID (z.B. aus dem Verbundkatalog importiert)",
+  "copyNumber": "Copy-Number",
+  "numberOfPieces": "Anzahl Teile, z.B. '7 CDs in einer Verpackung'",
+  "descriptionOfPieces": "Beschreibung der Teile, z.B. 1 Buch mit 7 CDs",
+  "numberOfMissingPieces": "Anzahl fehlender Teile", 
+  "missingPieces": "Beschreibung der fehlenden Teile", 
+  "missingPiecesDate": "17.08.2017",
+  "itemDamagedStatusId": "54d1dd76-ea33-4bcb-955b-6b29df4f7930",
+  "itemDamagedStatusDate": "17.08.2020, 15 Uhr",
+  "notes": [
+    { "itemNoteTypeId" : "a89d52b2-ee7f-4649-b0de-8db47eaaf5c1",
+      "note" : "Es fehlen 2 der 7 CDs; eine ist arg zerkratzt, aber noch abspielbar",
+      "staffOnly" : true
+    }
+  ],
+  "status": { 
+    "name": "Checked out",
+    "date" : "2020-08-17T15:00:00.000"
+  },
+  "materialTypeId": "615b8413-82d5-4203-aa6e-e37984cb5ac3",
+  "permanentLoanTypeId": "af2b42e4-ea86-4b42-bed4-62e09e76c950",
+  "temporaryLoanTypeId": "e8b311a6-3b21-43f2-a269-dd9310cb2d0e",
+  "permanentLocationId": "184aae84-a5bf-4c6a-85ba-4a7c73026cd5",
+  "temporaryLocationId": "f34d27c6-a8eb-461b-acd6-5dea81771e70",
+  "electronicAccess": [ {
+    "uri": "https://www.hbz-nrw.de/projekte/folio-ole-bms/system",
+    "linkText": "Ressource",
+    "materialsSpecification": "Materialspezifikation",
+    "publicNote": "öffentliche Notiz zur URL",
+    "relationshipId": "Beziehung zwischen der elektronischen Ressource und dem katalogisierem Exemplar"
+    }
+  ],
+  "statisticalCodeIds" : [ "a5ccf92e-7b1f-4990-ac03-780a6a767f37" ],
+  "purchaseOrderLineIdentifier": "Bestellung-ID",
+  "tags" : {
+    "tagList" : [
+      "wichtig"
+    ]
+  },
+  "lastCheckIn": {
+      "dateTime": "2020-08-17T14:00:00.000",
+      "servicePointId": "3a40852d-49fd-4df2-a1f9-6e2641a6e91f",
+      "staffMemberId": "375ae3bb-fe83-47a8-b860-59657357fda4"
+  }
+}

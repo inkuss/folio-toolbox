@@ -1,0 +1,162 @@
+{
+  "@context" : "http://localhost:9130/inventory/instances/context",
+  "id" : "4d23bdb1-63fe-49d2-9944-6287c5bfddec",
+  "hrid" : "Publikationsnummer, muss einmalig sein, z.B. Altsystem-0003",
+  "source" : "FOLIO",
+  /* >>> BEGINN Kommentar
+  "parentInstances" : [ {
+    "id" : "1f616ead-5c30-4eba-a10d-104e94e89e43", // FOLIO-System-ID des übergeordneten Hauptsatzes
+    "superInstanceId" : "1f616ead-5c30-4eba-a10d-104e94e89e43" ,
+    "instanceRelationshipTypeId" : "30773a27-b485-4dab-aeb6-b8c04fa3cb17" // monografische Reihe
+    }
+  ],
+  "childInstances" : [ {
+    "id" : "4777a233-2ed4-4c37-813b-a2203f46d49e", // FOLIO-System-ID des 1. Untersatzes
+    "subInstanceId" : "4777a233-2ed4-4c37-813b-a2203f46d49e",
+    "instanceRelationshipTypeId" : "758f13db-ffb4-440e-bb10-8a364aa6cb4a" // bound-with (gebundene Reihe)
+    }, {
+    "id" : "d576590c-d537-42c5-a4f4-93a73531b7bd", // FOLIO-System-ID des 2. Untersatzes
+    "subInstanceId" : "d576590c-d537-42c5-a4f4-93a73531b7bd",
+    "instanceRelationshipTypeId" : "758f13db-ffb4-440e-bb10-8a364aa6cb4a" // bound-with (gebundene Reihe)
+    }
+  ],
+  <<< ENDE Kommentar */
+  "title" : "Hauptsachtitel : Zusatztitel ; Verfasserangabe",
+  "indexTitle" : "Titel, normiert zum Stöbern und Suchen",
+  "precedingTitles" : [ ],
+  "succeedingTitles" : [ ],
+  "alternativeTitles" : [ 
+    { "alternativeTitleTypeId" : "4bb300a4-04c9-414b-bfbc-9c032f74b7b2", "alternativeTitle" : "Paralleltitel" },
+    { "alternativeTitleTypeId" : "adbe62ca-32f5-49d5-9c04-7bed7a363cee", "alternativeTitle" : "Zeitschriftenkürzel" }
+  ],
+  "editions" : [ "Auflagenbezeichnung" ],
+  "series" : [ "Serientitel" ],
+  "identifiers" : [ {
+    "identifierTypeId" : "8261054f-be78-422d-bd51-4ed9f33c3422", /* ISBN */
+    "value" : "978-3551-5516-72"
+  } ],
+  "contributors" : [ {
+    "name" : "Ingolf Kuss",
+    "contributorNameTypeId" : "2b94c631-fca9-4892-a730-03ee529ffe2a", /* Personenname */
+    "contributorTypeId" : "6e09d47d-95e2-4d8a-831b-f777b8ef6d81", /* Autor */
+    "contributorTypeText" : "Verfasser",
+    "primary" : true
+    }, {
+    "name" : "Martina Tumulla",
+    "contributorNameTypeId" : "2b94c631-fca9-4892-a730-03ee529ffe2a", /* Personenname */
+    "contributorTypeId" : "863e41e3-b9c5-44fb-abeb-a8ab536bb432", /* Editor */
+    "contributorTypeText" : "Editor",
+    "primary" : false
+    }, {
+    "name" : "Christin Seegert",
+    "contributorNameTypeId" : "2b94c631-fca9-4892-a730-03ee529ffe2a", /* Personenname */
+    "contributorTypeId" : "3322b734-ce38-4cd4-815d-8983352837cc", /* Übersetzerin */
+    "contributorTypeText" : "Mitarbeiter",
+    "primary" : false
+    }, {
+    "name" : "Land NRW",
+    "contributorNameTypeId" : "2e48e713-17f3-4c13-a9f8-23845bb210aa", /* Firmenname */
+    "contributorTypeId" : "a60314d4-c3c6-4e29-92fa-86cc6ace4d56", /* Herausgeber */
+    "contributorTypeText" : "Herausgeber",
+    "primary" : false
+    }, {
+    "name" : "hbz NRW",
+    "contributorNameTypeId" : "2e48e713-17f3-4c13-a9f8-23845bb210aa", /* Firmenname */
+    "contributorTypeId" : "a60314d4-c3c6-4e29-92fa-86cc6ace4d56", /* Herausgeber */
+    "contributorTypeText" : "Institut/Organisation",
+    "primary" : false
+    }
+  ],
+  "subjects" : [ "Schlagwort 1", "Schlagwort 2" ],
+  "classifications" : [ { 
+    "classificationNumber" : "823",
+    "classificationTypeId" : "42471af9-7d25-4f3a-bf78-60d29dcf463b" /* Dewey */
+    }
+  ],
+  "publication" : [ {
+    "publisher" : "Verlag",
+    "place" : "Erscheinungsort",
+    "dateOfPublication" : "Erscheinungsjahr",
+    "role" : "Herausgeber" 
+    }
+  ],
+  "publicationFrequency" : [ "jährlich" ],
+  "publicationRange" : [ "2010-" ],
+  "electronicAccess" : [ {
+    "uri" : "https://www.hbz-nrw.de/projekte/folio-ole-bms/system",
+    "linkText" : "Ressource",
+    "materialsSpecification" : "Materialspezifikation",
+    "publicNote" : "URL öffentliche Notiz",
+    "relationshipId" : "f5d0068e-6272-458e-8a81-b85e7b9a14aa" /* Ressource */
+    }
+  ],
+  "instanceTypeId" : "6312d172-f0cf-40f6-b27d-9fa8feaf332f", /* Text */
+  /* "instanceTypeId" : "526aa04d-9289-4511-8866-349299592c18" Einzelkarte */
+  "instanceFormatIds" : [ "f5e8210f-7640-459b-a71f-552567f92369" ], /* Computer Online-Ressource */
+  "physicalDescriptions" : [ "Illustrationsangabe", "Umfang" ],
+  "languages" : [ "Sprache" ],
+  "notes" : [ {
+    "instanceNoteTypeId" : "e6050772-1e21-49cd-94c8-76b145e86b66",
+    "note" : "Zus. Bestandsangabe",
+    "staffOnly" : false
+    }, {
+    "instanceNoteTypeId" : "74c3250f-1d65-48b8-acb5-6de10a00a5d8",
+    "note" : "Präsentationsform",
+    "staffOnly" : false
+    }, {
+    "instanceNoteTypeId" : "05905901-b79a-472a-a862-6fbe1b1b48e1",
+    "note" : "Aspekte",
+    "staffOnly" : false
+    } , {
+    "instanceNoteTypeId" : "dd2a6204-359b-4363-9238-27d3c949da7d",
+    "note" : "Notation+Text",
+    "staffOnly" : false
+    } , {
+    "instanceNoteTypeId" : "724a5986-dbae-410a-882a-90e6658b7cd4",
+    "note" : "Alt-Notation Buch",
+    "staffOnly" : false
+    } , {
+    "instanceNoteTypeId" : "10e2e11b-450f-45c8-b09b-0f819999966e", /* Zusammenfassung */
+    "note" : "Abstract, Klappentext etc.",
+    "staffOnly" : false
+    } , {
+    "instanceNoteTypeId" : "86b6e817-e1bc-42fb-bab0-70e7547de6c1", /* Bibliografische Notiz */
+    "note" : "Bibliografische Notiz, genauer Standort des Exemplars",
+    "staffOnly" : false
+    } , {
+    "instanceNoteTypeId" : "90f12b03-cf4e-4519-bff0-838599e3a9b0",
+    "note" : "Anschaffungsdatum", 
+    "staffOnly" : false
+    }
+  ],
+  "modeOfIssuanceId" : "f5cc2ab6-bb92-4cab-b83f-5a3d09261a41", /* mehrteilige Monographie */
+  "catalogedDate" : "2020-08-17",
+  "previouslyHeld" : true,
+  "staffSuppress" : false,
+  "discoverySuppress" : false,
+  "statisticalCodeIds" : [ "a5ccf92e-7b1f-4990-ac03-780a6a767f37" ], /* elektronische Zeitschrift */
+  "statusId" : "52a2ff34-2a12-420d-8539-21aa8d3cf5d8", /* im Batch geladen (migriert) */
+  /* >>> BEGINN Kommentar
+  "metadata" : {
+    "createdDate" : "2020-08-04T15:16:48.859+0000",
+    "createdByUserId" : "308e69d1-c1e5-4665-96c7-1d6f891c672a",
+    "updatedDate" : "2020-08-04T15:21:48.859+0000",
+    "updatedByUserId" : "308e69d1-c1e5-4665-96c7-1d6f891c672a"
+  },
+  <<< ENDE Kommentar */
+  "tags" : {
+    "tagList" : [ "Etikett 1", "Etikett 2", "Etikett 3" ]
+  }
+  /* >>> BEGINN Kommentar
+  "natureOfContentTermIds" : [ 
+    "44cd89f3-2e76-469f-a955-cc57cb9e0395", // Publikationstyp: Buch
+    "0abeee3d-8ad2-4b04-92ff-221b4fce1075", // Publikationstyp: Zeitschrift
+    "ebbbdef1-00e1-428b-bc11-314dc0705074"  // Publikationstyp: Zeitung
+  ],
+  <<< ENDE Kommentar */
+  /* >>> BEGINN Kommentar
+  "links" : {
+    "self" : "http://localhost:9130/inventory/instances/4777a233-2ed4-4c37-813b-a2203f46d49e" // hier die gewünschte "id" einsetzen
+  }
+  <<< ENDE Kommentar */
+}

@@ -1,0 +1,93 @@
+HTTP/1.1 200 OK
+Server: nginx/1.10.3 (Ubuntu)
+Date: Mon, 17 Aug 2020 09:59:13 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Okapi-Trace: GET mod-authtoken-2.5.1 http://193.30.112.62:9171/identifier-types : 202 136192us
+X-Okapi-Trace: GET mod-inventory-storage-19.3.1 http://193.30.112.62:9133/identifier-types : 200 10663us
+
+{
+  "identifierTypes" : [ {
+    "id" : "2e8b3b6c-0e7d-4e48-bca2-b0b23b376af5",
+    "name" : "Other standard identifier",
+    "source" : "folio",
+    "metadata" : {
+      "createdDate" : "2020-08-10T14:55:27.147+0000",
+      "updatedDate" : "2020-08-10T14:55:27.147+0000"
+    }
+  }, {
+    "id" : "650ef996-35e3-48ec-bf3a-a0d078a0ca37",
+    "name" : "UkMac",
+    "source" : "folio",
+    "metadata" : {
+      "createdDate" : "2020-08-10T14:55:27.181+0000",
+      "updatedDate" : "2020-08-10T14:55:27.181+0000"
+    }
+  }, {
+    "id" : "5d164f4b-0b15-4e42-ae75-cfcf85318ad9",
+    "name" : "Control number",
+    "source" : "folio",
+    "metadata" : {
+      "createdDate" : "2020-08-10T14:55:27.200+0000",
+      "updatedDate" : "2020-08-10T14:55:27.200+0000"
+    }
+  }, {
+    "id" : "b5d8cdc4-9441-487c-90cf-0c7ec97728eb",
+    "name" : "Publisher or distributor number",
+    "source" : "folio",
+    "metadata" : {
+      "createdDate" : "2020-08-10T14:55:27.218+0000",
+      "updatedDate" : "2020-08-10T14:55:27.218+0000"
+    }
+  }, {
+    "id" : "7e591197-f335-4afb-bc6d-a6d76ca3bace",
+    "name" : "System control number",
+    "source" : "folio",
+    "metadata" : {
+      "createdDate" : "2020-08-10T14:55:27.239+0000",
+      "updatedDate" : "2020-08-10T14:55:27.239+0000"
+    }
+  }, {
+    "id" : "8261054f-be78-422d-bd51-4ed9f33c3422",
+    "name" : "ISBN",
+    "source" : "folio",
+    "metadata" : {
+      "createdDate" : "2020-08-10T14:55:27.258+0000",
+      "updatedDate" : "2020-08-10T14:55:27.258+0000"
+    }
+  }, {
+    "id" : "5069054d-bc3a-4212-a4e8-e2013a02386f",
+    "name" : "Cancelled GPO item number",
+    "source" : "folio",
+    "metadata" : {
+      "createdDate" : "2020-08-10T14:55:27.273+0000",
+      "updatedDate" : "2020-08-10T14:55:27.273+0000"
+    }
+  }, {
+    "id" : "7f907515-a1bf-4513-8a38-92e1a07c539d",
+    "name" : "ASIN",
+    "source" : "folio",
+    "metadata" : {
+      "createdDate" : "2020-08-10T14:55:27.292+0000",
+      "updatedDate" : "2020-08-10T14:55:27.292+0000"
+    }
+  }, {
+    "id" : "3fbacad6-0240-4823-bce8-bb122cfdf229",
+    "name" : "StEdNL",
+    "source" : "folio",
+    "metadata" : {
+      "createdDate" : "2020-08-10T14:55:27.310+0000",
+      "updatedDate" : "2020-08-10T14:55:27.310+0000"
+    }
+  }, {
+    "id" : "5860f255-a27f-4916-a830-262aa900a6b9",
+    "name" : "Linking ISSN",
+    "source" : "folio",
+    "metadata" : {
+      "createdDate" : "2020-08-10T14:55:27.328+0000",
+      "updatedDate" : "2020-08-10T14:55:27.328+0000"
+    }
+  } ],
+  "totalRecords" : 24
+}

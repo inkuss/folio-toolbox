@@ -1,0 +1,70 @@
+{
+  "id": null, /* System-ID (UUID) des Exemplardatensatzes, oder null (= wird vom System vergeben) */
+  "hrid": "Exemplarsatz Nr. 0001", /* Menschenlesbare ID für den Exemplarsatz */
+  "holdingsRecordId": "b81136f7-a2ee-432e-862a-2c655552271e", /* Die System-ID des Lokaldatensatzes, zu dem das Exemplar gehört */
+  "accessionNumber": "Zugangsnummer oder Akzessionsnummer",
+  "barcode": "Barcode (Strichcode)", /* eine eindeutige Kontorllnummer für physische Ressourcen, die hauptsächlich für die Ausleihe gebraucht wird */
+  "itemLevelCallNumber": "Magazinsignatur", /* ein Identifikator des Exemplars, der normalerweise als Aufkleber am Exemplar angebracht ist. Wird benutzt, um den Standort im Regal festzulegen. */
+  "itemLevelCallNumberPrefix": "Prefix der Magazinsignatur",
+  "itemLevelCallNumberSuffix": "Suffix der Magazinsignatur",
+  "itemLevelCallNumberTypeId": "d9f45e0c-5048-4c78-aeec-bc961fb2366c", /* Typ der Signatur: Freihandsignatur */
+  "volume": "Band 1 (2019)",
+  "enumeration": "jährliche Bindung", /* Beschreibung des fortlaufenden Benennungschemas von Zeitschriften */
+  "chronology": "Chronologie: YYYY", /* Beschreibung des Datumsschemas einer Zeitschrift */
+  "itemIdentifier": "Exemplar-ID (z.B. aus dem Verbundkatalog importiert)",
+  "copyNumber": "Copy-Number", /* Copy number is the piece identifier. The copy number reflects if the library has a copy of a single-volume monograph; one copy of a multi-volume, (e.g. Copy 1, or C.7.) */
+  "numberOfPieces": "Anzahl Teile, z.B. '7 CDs in einer Verpackung'",
+  "descriptionOfPieces": "Beschreibung der Teile, z.B. 1 Buch mit 7 CDs",
+  "numberOfMissingPieces": "Anzahl fehlender Teile", 
+  "missingPieces": "Beschreibung der fehlenden Teile", 
+  "missingPiecesDate": "17.08.2017", /* Datum, wann das Teil verloren ging */
+  "itemDamagedStatusId": "54d1dd76-ea33-4bcb-955b-6b29df4f7930", /* Beschädigungsstatus: beschädigt */
+  "itemDamagedStatusDate": "17.08.2020, 15 Uhr", /* Uhrzeit und Datum, als das Exemplar beschädigt wurde */
+  "notes": [
+    { "itemNoteTypeId" : "a89d52b2-ee7f-4649-b0de-8db47eaaf5c1", /* Beschädigungsvermerk */
+      "note" : "Es fehlen 2 der 7 CDs; eine ist arg zerkratzt, aber noch abspielbar",
+      "staffOnly" : true
+    }
+  ],
+  "status": { 
+    "name": "Checked out", /* engl. "Checked out" = ausgeliehen; Teil eines kontrollierten Vokabulars */
+    "date" : "2020-08-17T15:00:00.000" /* Datum und Uhrzeit als der Status zuletzt geändert wurde */
+  },
+  "materialTypeId": "615b8413-82d5-4203-aa6e-e37984cb5ac3", /* Elektronische Ressource (Online-Version) */
+  /* "materialTypeId": "5ee11d91-f7e8-481d-b079-65d708582ccc", DVD */
+  /* "materialTypeId": "fd6c6515-d470-4561-9c32-3e3290d4ca98", Mikrofiche/Mikrofilm */
+  "permanentLoanTypeId": "af2b42e4-ea86-4b42-bed4-62e09e76c950", /* Leihkennzeichen: entleihbar */
+  /* "permanentLoanTypeId": "15bb8dad-c5cd-4094-9fda-cf3626ba3d13", Leihkennzeichen: nicht entleihbar */
+  /* "permanentLoanTypeId": "e8b311a6-3b21-43f2-a269-dd9310cb2d0e", Leihkennzeichen: Semesterapparat */
+  /* "permanentLoanTypeId": "2e48e713-17f3-4c13-a9f8-23845bb210a4", Leihkennzeichen: Lesesaal */
+  "temporaryLoanTypeId": "e8b311a6-3b21-43f2-a269-dd9310cb2d0e", /* Leihkennzeichen: Semesterapparat */
+  "permanentLocationId": "184aae84-a5bf-4c6a-85ba-4a7c73026cd5", /* permanenter Standortbereich: Online */
+  "temporaryLocationId": "f34d27c6-a8eb-461b-acd6-5dea81771e70", /* zeitweiliger Standortbereich: 2. Stock */
+  "electronicAccess": [ {
+    "uri": "https://www.hbz-nrw.de/projekte/folio-ole-bms/system",
+    "linkText": "Ressource",
+    "materialsSpecification": "Materialspezifikation", /* materials specified is used to specify to what portion or aspect of the resource the electronic location and access information applies (e.g. a portion or subset of the item is electronic, or a related electronic resource is being linked to the record) */
+    "publicNote": "öffentliche Notiz zur URL",
+    "relationshipId": "Beziehung zwischen der elektronischen Ressource und dem katalogisierem Exemplar"
+    }
+  ],
+  /* >>> BEGINN Kommentar
+  "inTransitDestinationServicePointId": {
+    "description": "Service point an item is intended to be transited to (should only be present when in transit)",
+    "type": "string",
+    "pattern": "^[a-fA-F0-9]{8}-[a-fA-F0-9]{4}-[a-fA-F0-9]{4}-[a-fA-F0-9]{4}-[a-fA-F0-9]{12}$"
+  },
+  <<< ENDE Kommentar */
+  "statisticalCodeIds" : [ "a5ccf92e-7b1f-4990-ac03-780a6a767f37" ], /* elektronische Zeitschrift */
+  "purchaseOrderLineIdentifier": "Bestellung-ID",
+  "tags" : {
+    "tagList" : [
+      "wichtig"
+    ]
+  },
+  "lastCheckIn": {
+      "dateTime": "2020-08-17T15:00:00.000", /* Datum und Uhrzeit, wann das Exemplar zuletzt bei "Inventar" eingescannt (zurückgegeben) wurde */
+      "servicePointId": "3a40852d-49fd-4df2-a1f9-6e2641a6e91f", /* Ausleihteke, bei dem das Exemplar zuletzt zurückgegeben wurde */
+      "staffMemberId": "375ae3bb-fe83-47a8-b860-59657357fda4", /* Ingolf Kuss */
+  }
+}

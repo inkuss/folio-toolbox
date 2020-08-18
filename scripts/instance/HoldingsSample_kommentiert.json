@@ -1,0 +1,27 @@
+{
+  "id": null, /* Die System-ID (UUID) des Lokaldatensatzes, oder null (= wird vom System vergeben) */
+  "hrid": "Beispiellokalsatz Nr. 0001", /* eine menschelesbare ID, die zu der System-ID passt */
+  "instanceId": "4d23bdb1-63fe-49d2-9944-6287c5bfddec", /* Die System-ID des Titeldatensatzes */
+  "permanentLocationId": "fcd64ce1-6995-48f0-840e-89ffa2288371", /* Standort: Hauptbibliothek */
+  "callNumberTypeId": "d9f45e0c-5048-4c78-aeec-bc961fb2366c", /* Freihandsignatur */
+  "callNumberPrefix": "Prefix 001",
+  "callNumber": "Freihandsignatur",
+  "callNumberSuffix": "Suffix 001",
+  "holdingsStatements": [
+    {
+      "statement": "Vermerk 1: Ausgaben 2000-2010",
+      "note": "Notizen zu Vermerk 1"
+    },
+    {
+      "statement": "Vermerk 2: Ausgaben 2010-2020",
+      "note": "Notizen zu Vermerk 2"
+    }
+  ],
+  "tags" : {
+    "tagList" : [
+      "wichtig"
+    ]
+  },
+  "copyNumber": "Exemplar-ID",
+  "numberOfItems": "3"
+}
